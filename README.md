@@ -1,4 +1,4 @@
-# PlacedBharat.com
+# PlacedBharat
 
 ## [Problem Statement]()-As on today, in our country we are not having any master data base regarding campus placement in technical institute and Universities throughout the country. By mapping the entire placement details throughout the county, the percentage of un-employability can be identified in various fields of education. This will help the policy makers to come out with appropriate solution through framing of policies for tackling the unemployability in the country. Provision of common platform in which the entire data base of campus placement of all technical institutes/ Universities throughout the country by interlinking it will be extremely useful for the following: 1. Government/Policy makers to come out with appropriate solutions. 2. Corporates to have access to the students through a central database 
 
