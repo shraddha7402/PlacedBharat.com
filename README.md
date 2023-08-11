@@ -42,22 +42,22 @@
 -  ![image](https://github.com/shraddha7402/PlacedBharat.git.io/assets/63406385/d865136d-fbdf-4e1e-b982-8ae1812d4c3c)
 
 
-- - Registration Page For Students and Companies
+- Registration Page For Students and Companies
   - ![image](https://github.com/shraddha7402/PlacedBharat.git.io/assets/63406385/a6fb3bce-c593-4a6d-add8-e0458ff20488)
 
-- - Login Page
+- Login Page
   - ![image](https://github.com/shraddha7402/PlacedBharat.git.io/assets/63406385/a4f6b0ac-db9d-4965-8d29-09cf66901b92)
 
-- - Admin Login
+- Admin Login
   - ![image](https://github.com/shraddha7402/PlacedBharat.git.io/assets/63406385/d0d47b77-fe1a-41dd-a1d6-d87a2c16281a)
  
-- - Admin dashboard
+- Admin dashboard
   - ![PlaceBharat - Google Chrome 8_11_2023 6_22_40 PM](https://github.com/shraddha7402/PlacedBharat.git.io/assets/63406385/7887e656-e83e-45c5-820d-61778a1d957d)
  
-- -Post Notice
+- Post Notice
 - ![PlaceBharat - Google Chrome 8_11_2023 6_22_51 PM](https://github.com/shraddha7402/PlacedBharat.git.io/assets/63406385/70b8f254-f8e8-42ec-b868-164dc75885d4)
 
-- -Contact Us
+- Contact Us
 - ![image](https://github.com/shraddha7402/PlacedBharat.git.io/assets/63406385/bf1aab93-b12a-441d-bfec-d863688f8c71)
 - ![image](https://github.com/shraddha7402/PlacedBharat.git.io/assets/63406385/d34d98b3-6f55-4320-bcfe-0fda72891cc6)
 
