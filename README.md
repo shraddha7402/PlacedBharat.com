@@ -89,9 +89,4 @@ Browse the file in directory [placement-portal/database/db1.sql].
 
 Open any browser and type http://localhost/placement-portal-main.
 
-Team Member
-
-
-
-  
 
